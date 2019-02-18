@@ -1,0 +1,7 @@
+Mon Feb 18 22:01:06 UTC 2019
+Running regtest in /home/travis/build/plumed/plumed2/regtest/basic/rt66b
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --ixyz traj.xyz
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/basic/rt66b/tmp

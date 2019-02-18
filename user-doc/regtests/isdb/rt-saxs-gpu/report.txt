@@ -1,0 +1,9 @@
+Mon Feb 18 22:08:31 UTC 2019
+Running regtest in /home/travis/build/plumed/plumed2/regtest/isdb/rt-saxs-gpu
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --timestep 0.005 --mf_pdb template.pdb --dump-forces ff
+++ Processors: 2
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/isdb/rt-saxs-gpu/tmp
+Checking for arrayfire
+SKIP_ON_TRAVIS found!

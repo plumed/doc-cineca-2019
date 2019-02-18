@@ -1,0 +1,9 @@
+Mon Feb 18 22:06:10 UTC 2019
+Running regtest in /home/travis/build/plumed/plumed2/regtest/isdb/rt-caliber
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --trajectory-stride 1 --timestep 0.005 --mf_xtc trajout.xtc --multi 4 --dump-forces allforce
+++ Processors: 4
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/isdb/rt-caliber/tmp
+WARNING
+no file has been checked
